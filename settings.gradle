@@ -1,0 +1,2 @@
+rootProject.name = "Tourch_Using_Toggle"
+include ':app'
